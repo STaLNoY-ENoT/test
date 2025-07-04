@@ -5,10 +5,10 @@
   "notes": "Релиз",
   "builds": [
     {
-      "chipFamily": "ESP8266",
+      "chipFamily": "ESP32",
       "parts": [
         {
-          "path": "https://gitverse.ru/api/repos/FA1N/Test/raw/branch/main/bin/firmware.bin",
+          "path": "https://raw.githubusercontent.com/STaLNoY_ENoT/test/main/bin/firmware.bin",
           "offset": 0
         }
       ]
